@@ -21,6 +21,7 @@ As a Junior Computer Science major and a performer in the music industry, I am e
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 <!--
 **kw9212/kw9212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
