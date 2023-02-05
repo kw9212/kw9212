@@ -1,6 +1,7 @@
 ### Hello 👋 Welcome to my page!
 This is my [linkedin page](docs/https://www.linkedin.com/in/keunwoo-song-53770a238/). Feel free to visit.
-www.linkedin.com/in/keunwoo-song-53770a238
+[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keunwoo-song-53770a238/)](https://www.linkedin.com/in/keunwoo-song-53770a238/)
+
 <!--
 **kw9212/kw9212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
