@@ -1,6 +1,7 @@
 ### Hello 👋 Welcome to my page!
-This is my [linkedin page](docs/https://www.linkedin.com/in/keunwoo-song-53770a238/). Feel free to visit.
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keunwoo-song-53770a238/)](https://www.linkedin.com/in/keunwoo-song-53770a238/)
+[![Linkedin Badge](https://img.shields.io/badge/-KeunWoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keunwoo-song-53770a238/)](https://www.linkedin.com/in/keunwoo-song-53770a238/)
+
+As a Junior Computer Science major and a performer in the music industry, I am excited to bring my unique perspective and adaptability to a new field. My passion for innovation and problem-solving, coupled with my strong technical skills and my ability to work well under pressure, make me a valuable asset to any team in the tech industry. I am ready to take on new challenges and eager to continue my journey in this new field.
 
 <!--
 **kw9212/kw9212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
