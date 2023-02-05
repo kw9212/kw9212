@@ -6,8 +6,8 @@ As a Junior Computer Science major and a performer in the music industry, I am e
 
 ## ⚡ Technologies
 
-<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
 
 <!--
