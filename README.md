@@ -6,9 +6,9 @@ As a Junior Computer Science major and a performer in the music industry, I am e
 
 ## ⚡ Technologies
 
-[HTML](<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>)
-[Java](<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>)
-[JavaScript](<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>)
+<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 
 <!--
 **kw9212/kw9212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
