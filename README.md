@@ -22,7 +22,7 @@ As a Junior Computer Science major and a performer in the music industry, I am e
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 ![This is an image](https://cdnb.artstation.com/p/assets/images/images/020/179/209/large/anastasiya-osichkina-leblancrgb-color-fin2.jpg?1566730414)
-![My Image](/Users/keunwoo/Downloads/kw.jpeg)
+![kw](https://user-images.githubusercontent.com/104286190/216873028-5ffd91f3-3b13-42f3-a3b3-d81aa27c86f5.jpeg)
 
 
 <!--
