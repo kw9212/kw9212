@@ -22,8 +22,7 @@ As a Junior at Columbia University majoring in Computer Science and with a backg
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-![This is an image](https://cdnb.artstation.com/p/assets/images/images/020/179/209/large/anastasiya-osichkina-leblancrgb-color-fin2.jpg?1566730414)
-<https://user-images.githubusercontent.com/104286190/216873028-5ffd91f3-3b13-42f3-a3b3-d81aa27c86f5.jpeg = width="200" height="400"/>
+![Café Leblanc](https://cdnb.artstation.com/p/assets/images/images/020/179/209/large/anastasiya-osichkina-leblancrgb-color-fin2.jpg?1566730414)
 
 - 💬 Pronouns: He/him
 - 😄 Fun fact: I'm studying computer science now, but I never gave up my dream of becoming a musician.
