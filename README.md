@@ -2,7 +2,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-KeunWoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keunwoo-song-53770a238/)](https://www.linkedin.com/in/keunwoo-song-53770a238/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ks3651@columbia.edu)](ks3651@columbia.edu)
 
-As a Junior Computer Science major and a performer in the music industry, I am excited to bring my unique perspective and adaptability to a new field. My passion for innovation and problem-solving, coupled with my strong technical skills and my ability to work well under pressure, make me a valuable asset to any team in the tech industry. I am ready to take on new challenges and eager to continue my journey in this new field.
+As a Junior at Columbia University majoring in Computer Science and with a background in the music industry, I bring a unique perspective and adaptability to the tech industry. My passion for innovation and problem-solving, technical skills, and ability to work well under pressure make me a valuable asset to any team. I am eager to continue my journey and tackle new challenges in this exciting field.
+
 
 ## ⚡ Technologies
 
@@ -24,6 +25,8 @@ As a Junior Computer Science major and a performer in the music industry, I am e
 ![This is an image](https://cdnb.artstation.com/p/assets/images/images/020/179/209/large/anastasiya-osichkina-leblancrgb-color-fin2.jpg?1566730414)
 <https://user-images.githubusercontent.com/104286190/216873028-5ffd91f3-3b13-42f3-a3b3-d81aa27c86f5.jpeg = width="200" height="400"/>
 
+- 💬 Pronouns: He/him
+- 😄 Fun fact: I'm studying computer science now, but I never gave up my dream of becoming a musician.
 
 <!--
 **kw9212/kw9212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
