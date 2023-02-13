@@ -25,7 +25,7 @@ As a Junior at Columbia University majoring in Computer Science and with a backg
 ![Café Leblanc](https://cdnb.artstation.com/p/assets/images/images/020/179/209/large/anastasiya-osichkina-leblancrgb-color-fin2.jpg?1566730414)
 
 - 💬 Pronouns: He/him
-- 😄 Fun fact: This is my favorite cafe. If you know the name of the cafe, we are already best friends.
+- 😄 Fun fact: This is my favorite cafe. If you know the name of the cafe, yayyyyy!
 
 <!--
 **kw9212/kw9212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
