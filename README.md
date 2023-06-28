@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-KeunWoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keunwoo-song-53770a238/)](https://www.linkedin.com/in/keunwoo-song-53770a238/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ks3651@columbia.edu)](ks3651@columbia.edu)
 
-As a Junior at Columbia University majoring in Computer Science and with a background in the music industry, I bring a unique perspective and adaptability to the tech industry. My passion for innovation and problem-solving, technical skills, and ability to work well under pressure make me a valuable asset to any team. I am eager to continue my journey and tackle new challenges in this exciting field.
+As a rising senior at Columbia University majoring in Computer Science and with a background in the music industry, I bring a unique perspective and adaptability to the tech industry. My passion for innovation and problem-solving, technical skills, and ability to work well under pressure make me a valuable asset to any team. I am eager to continue my journey and tackle new challenges in this exciting field.
 
 
 ## ⚡ Technologies
