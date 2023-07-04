@@ -24,8 +24,7 @@ As a rising senior at Columbia University majoring in Computer Science and with 
 
 ![Café Leblanc](https://cdnb.artstation.com/p/assets/images/images/020/179/209/large/anastasiya-osichkina-leblancrgb-color-fin2.jpg?1566730414)
 
-- 💬 Pronouns: He/him
-- 😄 This is Cafe Leblanc.
+Cafe Leblanc.
 
 <!--
 **kw9212/kw9212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
