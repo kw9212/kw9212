@@ -1,8 +1,34 @@
-Café Leblanc
+### 👋 Hi, I'm Keunwoo Song
+- 제 소프트웨어가 누군가의 시간을 아껴주고, 복잡했던 문제를 단순하게 만들어줄 때 가장 큰 보람을 느낍니다. <br/> 기술은 결국 사람을 돕기 위한 도구라고 믿습니다.
+- I feel most rewarded when my software saves someone’s time or turns a complex problem into something simple. <br/> I believe technology ultimately exists to serve people.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Keunwoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keunwoo-song-53770a238/)](https://www.linkedin.com/in/keunwoo-song-53770a238/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ks3651@columbia.edu)](ks3651@columbia.edu)
+<br/>
 
+### ⚡ Technologies
+
+#### 💻 Frontend
+
+React · Next.js · TypeScript · TanStack Query · Zustand
+
+#### 🛠 Backend
+
+Node.js · Express · NestJS · Prisma · Sequelize · Mongoose
+
+#### 🗄 Database
+
+PostgreSQL · MongoDB · Redis
+
+#### 🚀 DevOps
+
+Docker · GitHub Actions · AWS EC2 · Vercel
+
+<br/>
+
+### ⭐️ Projects
+- [SayitRight](https://github.com/kw9212/sayitright-web?tab=readme-ov-file#sayitright): AI 기반 이메일 작성 어시스턴트 - 상황별 메타데이터를 활용한 맞춤형 이메일 생성 및 관리 서비스.
+- AI-powered Email Writing Assistant – A personalized email generation and management service that leverages contextual metadata to craft tailored emails.
+- [완독이](https://github.com/wandok-official/wandok-client?tab=readme-ov-file#%EC%99%84%EB%8F%85%EC%9D%B4-wandok): 문서 읽기 도우미 - 문장 단위 포커스 모드·문단 분리로 웹 문서 읽기 부담을 줄이는 Chrome 확장 프로그램.
+- Reading Assistant – A Chrome extension that reduces the cognitive load of reading web documents through sentence-level focus mode and paragraph separation.
 
 <!--
 ## ⚡ Technologies
@@ -22,8 +48,9 @@ Café Leblanc
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
--->
+
 ![Café Leblanc](https://cdnb.artstation.com/p/assets/images/images/020/179/209/large/anastasiya-osichkina-leblancrgb-color-fin2.jpg?1566730414)
+-->
 
 
 <!--
