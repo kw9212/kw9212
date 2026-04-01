@@ -29,7 +29,8 @@ Docker · GitHub Actions · AWS EC2 · Vercel
 - AI-powered Email Writing Assistant – A personalized email generation and management service that leverages contextual metadata to craft tailored emails.
 - [완독이](https://github.com/wandok-official/wandok-client?tab=readme-ov-file#%EC%99%84%EB%8F%85%EC%9D%B4-wandok): 문서 읽기 도우미 - 문장 단위 포커스 모드·문단 분리로 웹 문서 읽기 부담을 줄이는 Chrome 확장 프로그램.
 - Reading Assistant – A Chrome extension that reduces the cognitive load of reading web documents through sentence-level focus mode and paragraph separation.
-
+- [Live Coding Performance](https://medium.com/@kwsong9212/live-coding-with-samples-from-various-media-3b838d53faa6): Sonic Pi 기반 라이브 코딩 연주 및 회고.
+- Sonic Pi-based live coding music performance and retrospective. 
 <!--
 ## ⚡ Technologies
 
