@@ -6,9 +6,13 @@
 
 ### ⚡ Technologies
 
+#### ⌨️ Languages
+
+TypeScript · JavaScript · Java · Python
+
 #### 💻 Frontend
 
-React · Next.js · TypeScript · TanStack Query · Zustand
+React · Next.js · Sveltekit · TanStack Query · Zustand
 
 #### 🛠 Backend
 
@@ -16,11 +20,15 @@ Node.js · Express · NestJS · Prisma · Sequelize · Mongoose
 
 #### 🗄 Database
 
-PostgreSQL · MongoDB · Redis
+PostgreSQL · MongoDB · MySQL · Redis
+
+#### 🏗️ Cloud
+
+AWS EC2 · AWS RDS · AWS S3 · AWS CloudFront · Vercel · Fly.io
 
 #### 🚀 DevOps
 
-Docker · GitHub Actions · AWS EC2 · Vercel
+Docker · GitHub Actions · Heroku
 
 <br/>
 
